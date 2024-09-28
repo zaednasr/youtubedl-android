@@ -109,6 +109,6 @@ public class StreamingExampleActivity extends AppCompatActivity implements View.
     }
 
     private void setupVideoView(String videoUrl) {
-        videoView.setVideoURI(Uri.parse(videoUrl));
+        //videoView.setVideoURI(Uri.parse(videoUrl));
     }
 }
